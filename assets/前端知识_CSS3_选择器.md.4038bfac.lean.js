@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.1b72a0e7.js";const C=JSON.parse('{"title":"一、选择器","description":"","frontmatter":{},"headers":[],"relativePath":"前端知识/CSS3/选择器.md","lastUpdated":1699957240000}'),p={name:"前端知识/CSS3/选择器.md"},e=l("",99),o=[e];function t(r,c,i,d,D,y){return n(),a("div",null,o)}const b=s(p,[["render",t]]);export{C as __pageData,b as default};
