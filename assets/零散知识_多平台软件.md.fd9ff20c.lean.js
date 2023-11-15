@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,Q as l}from"./chunks/framework.1b72a0e7.js";const f=JSON.parse('{"title":"十二、多平台软件","description":"","frontmatter":{},"headers":[],"relativePath":"零散知识/多平台软件.md","lastUpdated":1700034831000}'),t={name:"零散知识/多平台软件.md"},i=l("",24),o=[i];function c(h,s,n,p,d,u){return r(),a("div",null,o)}const b=e(t,[["render",c]]);export{f as __pageData,b as default};
